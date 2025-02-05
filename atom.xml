@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>破船之家</title>
+  
+  
+  <link href="http://beyondvincent.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://beyondvincent.github.io/"/>
+  <updated>2025-02-05T13:31:16.807Z</updated>
+  <id>http://beyondvincent.github.io/</id>
+  
+  <author>
+    <name>破船</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重启破船之家</title>
+    <link href="http://beyondvincent.github.io/2025/02/04/restart-my-blog/"/>
+    <id>http://beyondvincent.github.io/2025/02/04/restart-my-blog/</id>
+    <published>2025-02-04T13:23:42.000Z</published>
+    <updated>2025-02-05T13:31:16.807Z</updated>
+    
+    <content type="html"><![CDATA[<p>前些年，因数据丢失，这个博客停更了好多年。思来想去，现如今，还是重头来过，把一些点点滴滴记录为文字在此。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前些年，因数据丢失，这个博客停更了好多年。思来想去，现如今，还是重头来过，把一些点点滴滴记录为文字在此。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
